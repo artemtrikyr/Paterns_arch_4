@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 25.0.1706.9
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Paterns_arch_4_builder", "Paterns_arch_4_builder\Paterns_arch_4_builder.csproj", "{13404469-4996-4A63-9AA7-2B6D970D11EE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{13404469-4996-4A63-9AA7-2B6D970D11EE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{13404469-4996-4A63-9AA7-2B6D970D11EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{13404469-4996-4A63-9AA7-2B6D970D11EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{13404469-4996-4A63-9AA7-2B6D970D11EE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3839AB3B-CDBE-4132-8435-FCDB1EE1B23A}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,15 @@
+/Users/husll/Desktop/IT_at_all/2_курс/Шаблони проєктування/Paterns_arch_4_visitor/Paterns_arch_4_visitor/obj/Debug/net7.0/Paterns_arch_4_visitor.csproj.AssemblyReference.cache
+/Users/husll/Desktop/IT_at_all/2_курс/Шаблони проєктування/Paterns_arch_4_visitor/Paterns_arch_4_visitor/obj/Debug/net7.0/Paterns_arch_4_visitor.GeneratedMSBuildEditorConfig.editorconfig
+/Users/husll/Desktop/IT_at_all/2_курс/Шаблони проєктування/Paterns_arch_4_visitor/Paterns_arch_4_visitor/obj/Debug/net7.0/Paterns_arch_4_visitor.AssemblyInfoInputs.cache
+/Users/husll/Desktop/IT_at_all/2_курс/Шаблони проєктування/Paterns_arch_4_visitor/Paterns_arch_4_visitor/obj/Debug/net7.0/Paterns_arch_4_visitor.AssemblyInfo.cs
+/Users/husll/Desktop/IT_at_all/2_курс/Шаблони проєктування/Paterns_arch_4_visitor/Paterns_arch_4_visitor/obj/Debug/net7.0/Paterns_arch_4_visitor.csproj.CoreCompileInputs.cache
+/Users/husll/Desktop/IT_at_all/2_курс/Шаблони проєктування/Paterns_arch_4_visitor/Paterns_arch_4_visitor/bin/Debug/net7.0/Paterns_arch_4_visitor
+/Users/husll/Desktop/IT_at_all/2_курс/Шаблони проєктування/Paterns_arch_4_visitor/Paterns_arch_4_visitor/bin/Debug/net7.0/Paterns_arch_4_visitor.deps.json
+/Users/husll/Desktop/IT_at_all/2_курс/Шаблони проєктування/Paterns_arch_4_visitor/Paterns_arch_4_visitor/bin/Debug/net7.0/Paterns_arch_4_visitor.runtimeconfig.json
+/Users/husll/Desktop/IT_at_all/2_курс/Шаблони проєктування/Paterns_arch_4_visitor/Paterns_arch_4_visitor/bin/Debug/net7.0/Paterns_arch_4_visitor.dll
+/Users/husll/Desktop/IT_at_all/2_курс/Шаблони проєктування/Paterns_arch_4_visitor/Paterns_arch_4_visitor/bin/Debug/net7.0/Paterns_arch_4_visitor.pdb
+/Users/husll/Desktop/IT_at_all/2_курс/Шаблони проєктування/Paterns_arch_4_visitor/Paterns_arch_4_visitor/obj/Debug/net7.0/Paterns_arch_4_visitor.dll
+/Users/husll/Desktop/IT_at_all/2_курс/Шаблони проєктування/Paterns_arch_4_visitor/Paterns_arch_4_visitor/obj/Debug/net7.0/refint/Paterns_arch_4_visitor.dll
+/Users/husll/Desktop/IT_at_all/2_курс/Шаблони проєктування/Paterns_arch_4_visitor/Paterns_arch_4_visitor/obj/Debug/net7.0/Paterns_arch_4_visitor.pdb
+/Users/husll/Desktop/IT_at_all/2_курс/Шаблони проєктування/Paterns_arch_4_visitor/Paterns_arch_4_visitor/obj/Debug/net7.0/Paterns_arch_4_visitor.genruntimeconfig.cache
+/Users/husll/Desktop/IT_at_all/2_курс/Шаблони проєктування/Paterns_arch_4_visitor/Paterns_arch_4_visitor/obj/Debug/net7.0/ref/Paterns_arch_4_visitor.dll

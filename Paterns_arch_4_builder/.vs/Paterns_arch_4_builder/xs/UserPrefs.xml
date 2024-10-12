@@ -1,0 +1,29 @@
+﻿<Properties StartupConfiguration="{13404469-4996-4A63-9AA7-2B6D970D11EE}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Paterns_arch_4_builder/Program.cs">
+    <Files>
+      <File FileName="Paterns_arch_4_builder/Program.cs" Line="4" Column="59" />
+      <File FileName="Paterns_arch_4_builder/House.cs" Line="6" Column="30" />
+      <File FileName="Paterns_arch_4_builder/HouseBuilder.cs" Line="5" Column="86" />
+      <File FileName="Paterns_arch_4_builder/ModernHouseBuilder.cs" Line="4" Column="64" />
+      <File FileName="Paterns_arch_4_builder/HouseDirector.cs" Line="4" Column="54" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Paterns_arch_4_builder" expanded="True">
+            <Node name="Paterns_arch_4_builder" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.Paterns__arch__4__builder PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+</Properties>

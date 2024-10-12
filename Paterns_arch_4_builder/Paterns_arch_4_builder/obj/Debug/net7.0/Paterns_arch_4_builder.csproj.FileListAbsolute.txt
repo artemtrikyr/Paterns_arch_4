@@ -1,0 +1,15 @@
+/Users/husll/Desktop/IT_at_all/2_курс/Шаблони проєктування/Paterns_arch_4_builder/Paterns_arch_4_builder/bin/Debug/net7.0/Paterns_arch_4_builder
+/Users/husll/Desktop/IT_at_all/2_курс/Шаблони проєктування/Paterns_arch_4_builder/Paterns_arch_4_builder/bin/Debug/net7.0/Paterns_arch_4_builder.deps.json
+/Users/husll/Desktop/IT_at_all/2_курс/Шаблони проєктування/Paterns_arch_4_builder/Paterns_arch_4_builder/bin/Debug/net7.0/Paterns_arch_4_builder.runtimeconfig.json
+/Users/husll/Desktop/IT_at_all/2_курс/Шаблони проєктування/Paterns_arch_4_builder/Paterns_arch_4_builder/bin/Debug/net7.0/Paterns_arch_4_builder.dll
+/Users/husll/Desktop/IT_at_all/2_курс/Шаблони проєктування/Paterns_arch_4_builder/Paterns_arch_4_builder/bin/Debug/net7.0/Paterns_arch_4_builder.pdb
+/Users/husll/Desktop/IT_at_all/2_курс/Шаблони проєктування/Paterns_arch_4_builder/Paterns_arch_4_builder/obj/Debug/net7.0/Paterns_arch_4_builder.csproj.AssemblyReference.cache
+/Users/husll/Desktop/IT_at_all/2_курс/Шаблони проєктування/Paterns_arch_4_builder/Paterns_arch_4_builder/obj/Debug/net7.0/Paterns_arch_4_builder.GeneratedMSBuildEditorConfig.editorconfig
+/Users/husll/Desktop/IT_at_all/2_курс/Шаблони проєктування/Paterns_arch_4_builder/Paterns_arch_4_builder/obj/Debug/net7.0/Paterns_arch_4_builder.AssemblyInfoInputs.cache
+/Users/husll/Desktop/IT_at_all/2_курс/Шаблони проєктування/Paterns_arch_4_builder/Paterns_arch_4_builder/obj/Debug/net7.0/Paterns_arch_4_builder.AssemblyInfo.cs
+/Users/husll/Desktop/IT_at_all/2_курс/Шаблони проєктування/Paterns_arch_4_builder/Paterns_arch_4_builder/obj/Debug/net7.0/Paterns_arch_4_builder.csproj.CoreCompileInputs.cache
+/Users/husll/Desktop/IT_at_all/2_курс/Шаблони проєктування/Paterns_arch_4_builder/Paterns_arch_4_builder/obj/Debug/net7.0/Paterns_arch_4_builder.dll
+/Users/husll/Desktop/IT_at_all/2_курс/Шаблони проєктування/Paterns_arch_4_builder/Paterns_arch_4_builder/obj/Debug/net7.0/refint/Paterns_arch_4_builder.dll
+/Users/husll/Desktop/IT_at_all/2_курс/Шаблони проєктування/Paterns_arch_4_builder/Paterns_arch_4_builder/obj/Debug/net7.0/Paterns_arch_4_builder.pdb
+/Users/husll/Desktop/IT_at_all/2_курс/Шаблони проєктування/Paterns_arch_4_builder/Paterns_arch_4_builder/obj/Debug/net7.0/Paterns_arch_4_builder.genruntimeconfig.cache
+/Users/husll/Desktop/IT_at_all/2_курс/Шаблони проєктування/Paterns_arch_4_builder/Paterns_arch_4_builder/obj/Debug/net7.0/ref/Paterns_arch_4_builder.dll

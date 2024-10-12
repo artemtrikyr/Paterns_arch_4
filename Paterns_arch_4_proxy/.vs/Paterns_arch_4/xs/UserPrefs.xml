@@ -1,0 +1,28 @@
+﻿<Properties StartupConfiguration="{0C43F862-6FB7-43C0-8067-873B08EDDE3C}|Default">
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Paterns_arch_4/Program.cs">
+    <Files>
+      <File FileName="Paterns_arch_4/IImage.cs" Line="10" Column="2" />
+      <File FileName="Paterns_arch_4/RealImage.cs" Line="13" Column="70" />
+      <File FileName="Paterns_arch_4/ProxyImage.cs" Line="12" Column="10" />
+      <File FileName="Paterns_arch_4/Program.cs" Line="25" Column="38" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Paterns_arch_4" expanded="True">
+            <Node name="Paterns_arch_4" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.Paterns__arch__4 PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

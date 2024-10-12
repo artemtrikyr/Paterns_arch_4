@@ -1,0 +1,15 @@
+/Users/husll/Desktop/IT_at_all/2_курс/Шаблони проєктування/Paterns_arch_4/Paterns_arch_4/bin/Debug/net7.0/Paterns_arch_4
+/Users/husll/Desktop/IT_at_all/2_курс/Шаблони проєктування/Paterns_arch_4/Paterns_arch_4/bin/Debug/net7.0/Paterns_arch_4.deps.json
+/Users/husll/Desktop/IT_at_all/2_курс/Шаблони проєктування/Paterns_arch_4/Paterns_arch_4/bin/Debug/net7.0/Paterns_arch_4.runtimeconfig.json
+/Users/husll/Desktop/IT_at_all/2_курс/Шаблони проєктування/Paterns_arch_4/Paterns_arch_4/bin/Debug/net7.0/Paterns_arch_4.dll
+/Users/husll/Desktop/IT_at_all/2_курс/Шаблони проєктування/Paterns_arch_4/Paterns_arch_4/bin/Debug/net7.0/Paterns_arch_4.pdb
+/Users/husll/Desktop/IT_at_all/2_курс/Шаблони проєктування/Paterns_arch_4/Paterns_arch_4/obj/Debug/net7.0/Paterns_arch_4.csproj.AssemblyReference.cache
+/Users/husll/Desktop/IT_at_all/2_курс/Шаблони проєктування/Paterns_arch_4/Paterns_arch_4/obj/Debug/net7.0/Paterns_arch_4.GeneratedMSBuildEditorConfig.editorconfig
+/Users/husll/Desktop/IT_at_all/2_курс/Шаблони проєктування/Paterns_arch_4/Paterns_arch_4/obj/Debug/net7.0/Paterns_arch_4.AssemblyInfoInputs.cache
+/Users/husll/Desktop/IT_at_all/2_курс/Шаблони проєктування/Paterns_arch_4/Paterns_arch_4/obj/Debug/net7.0/Paterns_arch_4.AssemblyInfo.cs
+/Users/husll/Desktop/IT_at_all/2_курс/Шаблони проєктування/Paterns_arch_4/Paterns_arch_4/obj/Debug/net7.0/Paterns_arch_4.csproj.CoreCompileInputs.cache
+/Users/husll/Desktop/IT_at_all/2_курс/Шаблони проєктування/Paterns_arch_4/Paterns_arch_4/obj/Debug/net7.0/Paterns_arch_4.dll
+/Users/husll/Desktop/IT_at_all/2_курс/Шаблони проєктування/Paterns_arch_4/Paterns_arch_4/obj/Debug/net7.0/refint/Paterns_arch_4.dll
+/Users/husll/Desktop/IT_at_all/2_курс/Шаблони проєктування/Paterns_arch_4/Paterns_arch_4/obj/Debug/net7.0/Paterns_arch_4.pdb
+/Users/husll/Desktop/IT_at_all/2_курс/Шаблони проєктування/Paterns_arch_4/Paterns_arch_4/obj/Debug/net7.0/Paterns_arch_4.genruntimeconfig.cache
+/Users/husll/Desktop/IT_at_all/2_курс/Шаблони проєктування/Paterns_arch_4/Paterns_arch_4/obj/Debug/net7.0/ref/Paterns_arch_4.dll

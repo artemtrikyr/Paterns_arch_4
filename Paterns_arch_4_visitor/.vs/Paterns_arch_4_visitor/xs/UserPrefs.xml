@@ -1,0 +1,29 @@
+﻿<Properties StartupConfiguration="{078E88E2-7157-4897-980E-B4EFC448254E}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Paterns_arch_4_visitor/FileSizeCalculator.cs">
+    <Files>
+      <File FileName="Paterns_arch_4_visitor/Program.cs" Line="16" Column="46" />
+      <File FileName="Paterns_arch_4_visitor/IFileVisitor.cs" Line="5" Column="21" />
+      <File FileName="Paterns_arch_4_visitor/IFile.cs" Line="5" Column="21" />
+      <File FileName="Paterns_arch_4_visitor/TextFile.cs" Line="30" Column="33" />
+      <File FileName="Paterns_arch_4_visitor/FileSizeCalculator.cs" Line="13" Column="87" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Paterns_arch_4_visitor" expanded="True">
+            <Node name="Paterns_arch_4_visitor" expanded="True">
+              <Node name="FileSizeCalculator.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.Paterns__arch__4__visitor PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>
